@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://D:/SGBD/Lab1Pdf.sql" dialect="GenericSQL" />
+    <file url="file://D:/SGBD/Lab7.sql" dialect="OracleSqlPlus" />
+    <file url="PROJECT" dialect="OracleSqlPlus" />
+  </component>
+</project>
